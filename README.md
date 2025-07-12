@@ -7,12 +7,12 @@ Este proyecto consiste en dos servicios desarrollados con Spring Boot:
 
 ---
 
-## 📦 Estructura del repositorio
+## Estructura del repositorio
 payment-system/
-├── orchestrator/ # Servicio principal
-├── payment-processor/ # Servicio externo simulado
-└── Payment-System.postman_collection.json
-└── Solución prueba Técnica Backend.docx
+ orchestrator/ # Servicio principal
+ payment-processor/ # Servicio externo simulado
+ Payment-System.postman_collection.json
+ Solución prueba Técnica Backend.docx
 
 ## Cómo ejecutar los servicios
 
